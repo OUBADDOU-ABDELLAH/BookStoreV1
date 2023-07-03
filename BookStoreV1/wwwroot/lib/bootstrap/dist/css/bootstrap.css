@@ -5,6 +5,15 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+.hover-effect {
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+    .hover-effect:hover {
+        transform: scale(1.1) rotate(45deg);
+        background-color: #f8f9fa; /* Couleur de fond souhaitée lors du survol */
+    }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;

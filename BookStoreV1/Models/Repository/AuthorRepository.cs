@@ -15,6 +15,8 @@
         }
         public void Add(Author entity)
         {
+            var id=_authors.Max(a => a.Id)+1; 
+            entity.Id = id;
          _authors.Add(entity);
         }
 
@@ -26,6 +28,7 @@
 
         public Author Find(int id)
         {
+
             var author = _authors.SingleOrDefault(a => a.Id == id);
 
             return author;

@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\AbdellahOubaddou\\source\\repos\\BookStoreV1\\BookStoreV1\\wwwroot\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\images\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbdellahOubaddou\\source\\repos\\BookStoreV1\\BookStoreV1\\wwwroot\\images\\book3.jpg",
+      "PackagePath": "staticwebassets\\images\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AbdellahOubaddou\\source\\repos\\BookStoreV1\\BookStoreV1\\wwwroot\\images\\book4.jpg",
+      "PackagePath": "staticwebassets\\images\\book4.jpg"
+    },
+    {
       "Id": "C:\\Users\\AbdellahOubaddou\\source\\repos\\BookStoreV1\\BookStoreV1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
